@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -20,7 +20,7 @@ export default function LandingPage() {
       borderRadius="pill"
       contentWidth="medium"
       sizing="small"
-      background="gradientBars"
+      background="circleGradient"
       cardStyle="glass-flat"
       primaryButtonStyle="diagonal-gradient"
       secondaryButtonStyle="outline"
@@ -263,7 +263,7 @@ export default function LandingPage() {
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873745267-gb5bvbll.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873745738-ibxls3t0.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873746227-wzmn1yut.jpg"
-          ]
+          ]}
           textboxLayout="default"
           useInvertedBackground="noInvert"
           showCard={true}
