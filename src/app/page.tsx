@@ -45,19 +45,19 @@ export default function LandingPage() {
           mediaItems={[
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873732785-zsf3yimh.jpg",
-              imageAlt: "AI chatbot interface technology"
+              imageAlt: "robot, chatgpt, class, school, board, technology, android, future, chatbot, ai, artificial intelligence"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873733313-tgjoafac.jpg",
-              imageAlt: "Modern dashboard interface web builder software"
+              imageAlt: "technology, computer, code, javascript, developer, programming, programmer, jquery, css, html, website"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873733847-ff2tdw6b.jpg",
-              imageAlt: "AI automation workflow digital transformation"
+              imageAlt: "marketing, business, whiteboard, workflow, campaign, email, strategy, planning, brainstorming, automation"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873734382-yxvsbabk.jpg",
-              imageAlt: "Data analytics charts technology metrics"
+              imageAlt: "digital marketing, technology, notebook, stats, statistics, internet, analyst, analysis, plan, tablet, office, work desk"
             }
           ]}
           stackedVariant="card"
@@ -87,31 +87,31 @@ export default function LandingPage() {
               title: "Intelligent Design Analysis",
               description: "Tell Webild what you need. Our AI analyzes your requirements, understands your brand, and generates personalized design suggestions instantly.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873734959-ybzu7988.jpg",
-              imageAlt: "Research planning digital strategy technology"
+              imageAlt: "keyboard, mouse, digital marketing, business, trade, communication, computer, internet"
             },
             {
               id: 2,
               title: "Smart Content Generation",
               description: "AI automatically creates compelling copy, optimizes messaging, and structures content for maximum engagement and conversions.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873735519-pnl50qfo.jpg",
-              imageAlt: "Design interface mockup web development"
+              imageAlt: "ux, prototyping, design, webdesign, app, mobile, business, interface, flat, symbol, ui, page, template, mockup, service, development"
             },
             {
               id: 3,
               title: "Rapid Development",
               description: "Watch as Webild builds your website in real-time. Code generation, responsive design, and optimization happen automatically.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873736025-pfuf3rwk.jpg",
-              imageAlt: "Coding programming development interface"
+              imageAlt: "code, coding, computer, data, developing, development, ethernet, html, programmer, programming, screen, software, technology"
             },
             {
               id: 4,
               title: "Continuous Optimization",
               description: "AI learns from user behavior and automatically optimizes performance, SEO, and user experience as you scale.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873736508-m6oy1kdx.jpg",
-              imageAlt: "Optimization performance analytics metrics"
+              imageAlt: "screw, thread, technology, screw nut, metal, hexagon nut, metal thread, screw connection"
             }
           ]}
-          animationType="entrance-slide"
+          animationType="slide-up"
           textboxLayout="default"
           useInvertedBackground="noInvert"
           usePrimaryButtonImage={false}
@@ -207,7 +207,7 @@ export default function LandingPage() {
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873737065-nwgfvz02.jpg",
               avatarAlt: "Sarah Johnson",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873739596-gxyywlm9.jpg",
-              imageAlt: "Successful web project website showcase portfolio"
+              imageAlt: "code, programming, hacking, html, web, data, design, development, program, website"
             },
             {
               id: "2",
@@ -219,7 +219,7 @@ export default function LandingPage() {
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873737501-fmovyzaj.jpg",
               avatarAlt: "Michael Chen",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873740143-rwpaefjl.jpg",
-              imageAlt: "Business growth success metrics achievement"
+              imageAlt: "money, coin, investment, business, finance, bank, currency, loan, cash, mortgage, banking, wealth"
             },
             {
               id: "3",
@@ -231,7 +231,7 @@ export default function LandingPage() {
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873738017-sabyuf3u.jpg",
               avatarAlt: "Emily Rodriguez",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873741040-ysrb2lwx.jpg",
-              imageAlt: "Digital marketing campaign results success"
+              imageAlt: "success, seo, business, planning, digital marketing, strategy, media, optimization, digital, content"
             },
             {
               id: "4",
@@ -243,7 +243,7 @@ export default function LandingPage() {
               avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873738649-yn45d0rj.jpg",
               avatarAlt: "David Kim",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873741569-6l2zztyr.jpg",
-              imageAlt: "E-commerce platform online store success"
+              imageAlt: "holiday shopping, smartphone, telephone, woman, hand, modern, app, apple, business"
             }
           ]}
           textboxLayout="default"
@@ -310,7 +310,7 @@ export default function LandingPage() {
             }
           ]}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873742132-vst5fpjp.jpg"
-          imageAlt="AI chatbot helping with website creation"
+          imageAlt="contact us, email, phone, mail, communication, business, call us, information, customer, care, assistance"
           mediaPosition="left"
           textboxLayout="default"
           useInvertedBackground="noInvert"
@@ -326,7 +326,7 @@ export default function LandingPage() {
           description="Get weekly tips, AI insights, and exclusive features delivered to your inbox. No spam, just helpful content."
           useInvertedBackground="noInvert"
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764873742698-92u2snvu.jpg"
-          imageAlt="Newsletter signup"
+          imageAlt="emailers template, email marketing, email icon, emailer design, mail, newsletter, sending an email"
           mediaPosition="right"
           inputPlaceholder="your@email.com"
           buttonText="Subscribe"
